@@ -17,6 +17,8 @@ For website:
 - HTML5
 - CSS
 - JavaScript
+- Tween.js
+- Linearinterpolation
 For illustrations and photos:
 - Adobe Illustrator
 
