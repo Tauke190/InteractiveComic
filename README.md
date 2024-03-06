@@ -21,16 +21,16 @@ For illustrations and photos:
 - Adobe Illustrator
 
 ## Work Allocation
-Al Hammad, Redha: 
+## Al Hammad, Redha: 
 - Captured photographs of campus locations featured in the comics.
 - Crafted narrative content for the comics.
-Gyawali, Avinash:
-- Developed the spritesheet for page-turning interactions on the website.
-- Selected and organized website templates.
-Ngo, Tinh: 
+## Gyawali, Avinash:
+- Developed the sprite sheet for page-turning interactions on the website.
+- Programmed the user interaction , scrolling mechanisms and audio toggle mechanicms.
+## Ngo, Tinh: 
 - Illustrated the initial sketches for both the website and story.
 - Created the cat illustrations and integrated them with photographs.
-Thanki, Jheel: 
+## Thanki, Jheel: 
 - Incorporated the finalized illustrations into the website.
 - Coded the scrolling interactions for seamless user experience.
 
